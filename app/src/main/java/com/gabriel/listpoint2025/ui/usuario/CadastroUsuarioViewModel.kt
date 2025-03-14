@@ -1,4 +1,4 @@
-package com.jailton.androidapptemplate.ui.usuario
+package com.gabriel.listpoint2025.ui.usuario
 
 import androidx.lifecycle.ViewModel
 

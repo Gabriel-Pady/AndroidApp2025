@@ -1,4 +1,4 @@
-package com.jailton.androidapptemplate
+package com.gabriel.listpoint2025
 
 import org.junit.Test
 

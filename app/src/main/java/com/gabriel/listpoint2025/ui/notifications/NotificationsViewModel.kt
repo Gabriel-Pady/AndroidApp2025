@@ -1,4 +1,4 @@
-package com.jailton.androidapptemplate.ui.notifications
+package com.gabriel.listpoint2025.ui.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
